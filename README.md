@@ -1,4 +1,12 @@
-### Hi there 👋
+# Christopher G Mendla - Ruby on Rails Developer
+
+## Current Status:
+I am currently available for employment. I am looking for:
+* Full Time Positions
+	* W2/1099/Contract/Contract to hire/ Corp to Corp
+* Sideline work:
+	* Ruby on Rails/WordPress
+	* W2/1099/Corp to Corp. 
 
 <!--
 **cmendla/cmendla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
