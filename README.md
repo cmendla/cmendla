@@ -33,12 +33,15 @@ An energetic problem solver who draws from my extensive experience to deliver re
 
 #### WordPress
 * 10 years +
+### Resumes
+
 ### Portfolio/References
 * [LinkedIn Profile](https://www.linkedin.com/in/christophergmendla/)
 * [Twitter Profile](https://twitter.com/cgmendla)
 * https://www.chrismendlatech.com/ - My tech blog - WordPress using a customized theme created with NicePage. 
-* 
-
+* [ChrisMendlasCorner](https://www.chrismendlascorner.com/) - My general blog covering careers, do it yourself and more. 
+* [LBIviews.com](https://www.lbiviews.com/) - A location blog for Long Beach Island, NJ 
+* [BucksViews.com](https://www.bucksviews.com/) - A location blog for Bucks County Pennsylvania
 <!--
 **cmendla/cmendla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
