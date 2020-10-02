@@ -1,3 +1,4 @@
+Welcome to the Github profile of
 # Christopher G Mendla - Ruby on Rails Developer
 
 ## Current Status:
@@ -22,9 +23,21 @@ An energetic problem solver who draws from my extensive experience to deliver re
  - Rspec, Capybara, Selenium
  - Brakeman, Rubocop, New Relic
  - Sidekiq
-### Environments
+
+####  Environments
 * Postgres, PGadmin, Mysql, Sql, PHPmyAdmin
 * Windows/Mac OS/Linux (Ubuntu)
+ 
+####  Agile/remote
+* 2+ years working 100 percent remote in an agile environment 
+
+#### WordPress
+* 10 years +
+### Portfolio/References
+* [LinkedIn Profile](https://www.linkedin.com/in/christophergmendla/)
+* [Twitter Profile](https://twitter.com/cgmendla)
+* https://www.chrismendlatech.com/ - My tech blog - WordPress using a customized theme created with NicePage. 
+* 
 
 <!--
 **cmendla/cmendla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
