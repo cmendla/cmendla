@@ -36,7 +36,7 @@ An energetic problem solver who draws from my extensive experience to deliver re
 
 #### WordPress
 * 10 years +
-### Resumes
+### Resumes - Click the resume link, then click the Download button
 * [Resume](https://github.com/cmendla/cmendla/blob/main/Christopher%20Mendla%20Ruby%20on%20Rails%20Developer%20Resume.DOCX) (Word as of 10/1/20)
 * [Resume](https://github.com/cmendla/cmendla/blob/main/Christopher%20Mendla%20Ruby%20on%20Rails%20Developer%20Resume.PDF) (PDF as of 10/1/20)
 
@@ -47,7 +47,6 @@ An energetic problem solver who draws from my extensive experience to deliver re
 * [ChrisMendlasCorner](https://www.chrismendlascorner.com/) - My general blog covering careers, do it yourself and more. 
 * [LBIviews.com](https://www.lbiviews.com/) - A location blog for Long Beach Island, NJ 
 * [BucksViews.com](https://www.bucksviews.com/) - A location blog for Bucks County Pennsylvania
-
 
 
 
