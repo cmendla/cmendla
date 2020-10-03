@@ -5,37 +5,44 @@ Welcome to the Github profile of
 I am currently available for employment. I am looking for Full Time and/or Sideline work.:
 * **Full Time Positions**
 	* W2/1099/Contract/Contract to hire/ Corp to Corp
+	* Permanent or temp
 	* Permanent/Contract to hire/Contract
 * **Sideline work:**
 	* Ruby on Rails/WordPress
 	* W2/1099/Corp to Corp. 
+	* Short or long term projects
 
 ## Summary:
 An energetic problem solver who draws from my extensive experience to deliver results. 
 
 ## Skills:
-#### Ruby on Rails (5 Years)
+#### Ruby on Rails (5+ Years)
 
-  - Rails 3/4/5/6
- - Ruby through 2.7.x
- - Jenkins, Cloud Foundry
+ - Rails 3/4/5/6 (5+ yrs)
+ - Ruby through 2.7.x (5+ yrs)
+ - Jenkins, Cloud Foundry (2+ yrs)
  - Github, Github Enterprise
- - Rspec, Capybara, Selenium
- - Brakeman, Rubocop, New Relic
- - Puma
- - Sidekiq
+ - Rspec, Capybara, Selenium (5+ yrs)
+ - Brakeman, Rubocop, New Relic (4+ yrs)
+ - Puma (3+yrs)
+ - Sidekiq (4 yrs)
 
-####  Environments
-* Postgres, PGadmin, Mysql, Sql, PHPmyAdmin (10 Years)
+####  Environments and tools
+* Postgres, PGadmin, Mysql, Sql, PHPmyAdmin (10 Years) 
 * Windows/Mac OS/Linux (Ubuntu) (15+ years)
-* Oracle Virtualbox running Ubuntu under windows. 
-* Ngninx
+* Oracle Virtualbox running Ubuntu under windows (7 yrs)
+* Nginx (3 yrs)
+* Css, HTML, Javascript, Jquery (6+ yrs)
  
 ####  Agile/remote
-* 2+ years working 100 percent remote in an agile environment 
+* 3+ years working 100 percent remote in an agile environment 
 
-#### WordPress
-* 10 years +
+#### WordPress (10+ years)
+* PhpMyAdmin, cPanel, Cloudflare
+* Wordfence, Gutenberg 
+* Custom Templates
+* Adsense monetization
+
 ### Resumes - Click the resume link, then click the Download button
 * [Resume](https://github.com/cmendla/cmendla/blob/main/Christopher%20Mendla%20Ruby%20on%20Rails%20Developer%20Resume.DOCX) (Word as of 10/1/20)
 * [Resume](https://github.com/cmendla/cmendla/blob/main/Christopher%20Mendla%20Ruby%20on%20Rails%20Developer%20Resume.PDF) (PDF as of 10/1/20)
@@ -48,7 +55,8 @@ An energetic problem solver who draws from my extensive experience to deliver re
 * [LBIviews.com](https://www.lbiviews.com/) - A location blog for Long Beach Island, NJ 
 * [BucksViews.com](https://www.bucksviews.com/) - A location blog for Bucks County Pennsylvania
 
-
+### How to reach me: ...
+* Use the email link in the left sidebar. 
 
 <!--
 **cmendla/cmendla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
