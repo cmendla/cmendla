@@ -57,7 +57,8 @@ An energetic problem solver who draws from my extensive experience to deliver re
 * [BucksViews.com](https://www.bucksviews.com/) - A location blog for Bucks County Pennsylvania
 
 ### How to reach me: ...
-* Use the email link in the left sidebar. 
+* chrismendla@gmail.com 
+* Message me on [LinkedIn](https://www.linkedin.com/in/christophergmendla/)
 
 <!--
 **cmendla/cmendla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
