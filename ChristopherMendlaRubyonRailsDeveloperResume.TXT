@@ -1,0 +1,92 @@
+
+Christopher G Mendla
+
+975 Woodland Drive
+Southampton, PA 18966
+Phone: 215 942 0170
+Cell: 215 208 1817
+E-Mail: chrismendla@gmail.com
+
+Skill Highlights
+
+Ruby on Rails
+Javascript, jQuery
+
+Jenkins, Sidekiq, Rspec, Factorybot
+Postgres Sql
+
+Team building
+Process improvement
+Website optimization
+WordPress
+
+Active Directory
+
+Personnel Management
+SEO, Analytics, Social Media
+Agile workflow processes
+Github, Bitbucket
+Agile Environments - Asana and Leankit
+IT Management / Project Management
+
+Summary
+
+Logical and results-driven Ruby on Rails Developer dedicated to building and optimizing user-focused websites for customers with various business objectives. Judicious and creative when crafting effective websites, apps and platforms to propel competitive advantage and revenue growth. Technically proficient and analytical problem solver with calm and focused demeanor.
+
+Experience
+
+May 2018 to July 2020
+Obsidian Global LLC Washington, DC
+Web Developer    
+
+Subcontractor to USCIS/DID(IT) - 100% Remote
+Developed and maintained multiple Ruby on Rails applications. Maintained 97 percent code coverage while meeting aggressive deadlines. Maintained strict compliance with Section 508 requirements (Accessibility)
+Platform: Ruby on Rails 6.x, Github, AWS, Heroku, Jenkins, Sidekiq, Rspec, Factorybot, Cloud Foundry
+Leankit for workflow
+85-P Public Trust background check required and held for this position
+
+May 2017 to August 2017
+Holman Automotive Group Mt. Laurel, NJ
+Senior Web Developer    
+
+Developed and maintained public and private websites in using Rails3, CSS, jQuery/Javascript,Heroku, Aws, ActiveAdmin, Github, Agile, Rspec environment
+Tested websites and performed troubleshooting prior to deployment
+Designed, implemented and monitored web pages and sites for continuous improvement
+Designed sites to be compatible with top browsers, including Firefox, Chrome and Safari
+
+September 2015 to May 2017
+CCT Tapes Philadelphia, PA
+Full Stack Web Developer    
+
+Migrated critical internal applications from Lotus Notes to Ruby on Rails
+Developed full stack on Rails 4, Windows IIS, Microsoft Sql Server and Active Directory
+Integrated existing Active Directory with Rails applications via LDAP to provide single source of authentication
+Integrated applications to connect with SQL tables generated from corporate CRM system (Sage) data
+Created responsive CSS/Javascript templates providing consistent user interface and experience
+Provided networking support as required. (firewall, VPN, server issues, hardware, software, infrastructure planning)
+
+
+
+January 2001 to September 2015
+CGM Systems, Inc Southampton, PA
+IT Director/Web Developer    
+Provided web design, hardware, software and network support to clients which included trade schools, manufacturing companies, law offices and real estate professionals.
+
+Developed and maintained websites for clients including trade schools and specialty metals manufacturing companies using Joomla Created responsive templates using CSS and Javascript
+Provided SEO, Google Analytics and Google Adwords support
+Managed Windows Server networks providing all services including Active Directory, Symantec Endpoint Protection, Email including Office 365, VPNs, SMTP servers, firewalls, RDP and virtual machines
+
+Education and Training
+
+1995 Drexel University Philadelphia, PA
+Advanced Professional Certificate Quantative Analysis 
+27 credits post Masters in Quantative Analysis as part of a fellowship awarded by the US Departent of the Navy.  
+1986 La Salle University Philadelphia, NY
+MBA Management Information Systems 
+MBA in Management Information Systems taken after hours.  
+1980 La Salle College Philadelphia, NY
+Bachelor of Science Management/Marketing 
+
+Professional Affiliations
+
+Member - Philly.rb. A meetup group devoted to the Ruby Language and Rails. 
