@@ -46,7 +46,7 @@ An energetic problem solver who draws from my extensive experience to deliver re
 ### Resumes - Click the resume link, then click the Download button
 * [Resume](https://github.com/cmendla/cmendla/blob/main/ChristopherMendlaRubyonRailsDeveloperResume.DOCX) (Word as of 10/12/20)
 * [Resume](https://github.com/cmendla/cmendla/blob/main/ChristopherMendlaRubyonRailsDeveloperResume.PDF) (PDF as of 10/12/20)
-* [Resume(https://github.com/cmendla/cmendla/blob/main/ChristopherMendlaRubyonRailsDeveloperResume.TXT) (TXT as of 10/12/20)
+* [Resume](https://github.com/cmendla/cmendla/blob/main/ChristopherMendlaRubyonRailsDeveloperResume.TXT) (TXT as of 10/12/20)
 
 ### Portfolio/References
 * [LinkedIn Profile](https://www.linkedin.com/in/christophergmendla/)
