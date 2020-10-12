@@ -2,7 +2,7 @@ Welcome to the Github profile of
 # Christopher G Mendla - Ruby on Rails Developer
 
 ## Current Status:
-I am currently available for employment. I am looking for Full Time and/or Sideline work.:
+I am currently available for employment. I am looking for Full Time and/or Sideline work:
 * **Full Time Positions**
 	* W2/1099/Contract/Contract to hire/ Corp to Corp
 	* Permanent or temp
@@ -44,8 +44,9 @@ An energetic problem solver who draws from my extensive experience to deliver re
 * Adsense monetization
 
 ### Resumes - Click the resume link, then click the Download button
-* [Resume](https://github.com/cmendla/cmendla/blob/main/Christopher%20Mendla%20Ruby%20on%20Rails%20Developer%20Resume.DOCX) (Word as of 10/1/20)
-* [Resume](https://github.com/cmendla/cmendla/blob/main/Christopher%20Mendla%20Ruby%20on%20Rails%20Developer%20Resume.PDF) (PDF as of 10/1/20)
+* [Resume](https://github.com/cmendla/cmendla/blob/main/ChristopherMendlaRubyonRailsDeveloperResume.DOCX) (Word as of 10/12/20)
+* [Resume](https://github.com/cmendla/cmendla/blob/main/ChristopherMendlaRubyonRailsDeveloperResume.PDF) (PDF as of 10/12/20)
+* [Resume(https://github.com/cmendla/cmendla/blob/main/ChristopherMendlaRubyonRailsDeveloperResume.TXT) (TXT as of 10/12/20)
 
 ### Portfolio/References
 * [LinkedIn Profile](https://www.linkedin.com/in/christophergmendla/)
