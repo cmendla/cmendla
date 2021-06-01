@@ -2,7 +2,7 @@ Welcome to the Github profile of
 # Christopher G Mendla - Ruby on Rails Developer
 
 ## Current Status:
-I am currently available for employment. I am looking for Full Time and/or Sideline work:
+I am currently employed as a Ruby on Rails Developer.:
 * **Full Time Positions**
 	* W2/1099/Contract/Contract to hire/ Corp to Corp
 	* Permanent or temp
@@ -18,26 +18,27 @@ An energetic problem solver who draws from my extensive experience to deliver re
 ## Skills:
 #### Ruby on Rails (5+ Years)
 
- - Rails 3/4/5/6 (5+ yrs)
- - Ruby through 2.7.x (5+ yrs)
- - Jenkins, Cloud Foundry (2+ yrs)
- - Github, Github Enterprise
- - Rspec, Capybara, Selenium (5+ yrs)
- - Brakeman, Rubocop, New Relic (4+ yrs)
- - Puma (3+yrs)
- - Sidekiq (4 yrs)
+ - Rails 3/4/5/6 (6+ yrs)
+ - Ruby through 2.7.x (6+ yrs)
+ - Jenkins, Cloud Foundry, Circle CI (3+ yrs)
+ - Github, Github Enterprise (6+ yrs)
+ - Rspec, Capybara, Selenium (6+ yrs)
+ - Brakeman, Rubocop, New Relic (6+ yrs)
+ - Puma (4+yrs)
+ - Sidekiq, Redis (5 yrs)
+ - AWS (2+ yrs)
 
 ####  Environments and tools
-* Postgres, PGadmin, Mysql, Sql, PHPmyAdmin (10 Years) 
-* Windows/Mac OS/Linux (Ubuntu) (15+ years)
-* Oracle Virtualbox running Ubuntu under windows (7 yrs)
+* Postgres, PGadmin, Mysql, Sql, PHPmyAdmin (11 Years) 
+* Windows/Mac OS/Linux (Ubuntu) (16+ years)
+* Oracle Virtualbox running Ubuntu under windows (8 yrs)
 * Nginx (3 yrs)
-* Css, HTML, Javascript, Jquery (6+ yrs)
+* Css, HTML, Javascript, Jquery (7+ yrs)
  
 ####  Agile/remote
 * 3+ years working 100 percent remote in an agile environment 
 
-#### WordPress (10+ years)
+#### WordPress (11+ years)
 * PhpMyAdmin, cPanel, Cloudflare
 * Wordfence, Gutenberg 
 * Custom Templates
