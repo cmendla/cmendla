@@ -2,7 +2,7 @@ Welcome to the Github profile of
 # Christopher G Mendla - Ruby on Rails Developer
 
 ## Current Status:
-I am currently employed as a Ruby on Rails Developer.:
+I am currently employed as a Web Developer
 * **Full Time Positions**
 	* W2/1099/Contract/Contract to hire/ Corp to Corp
 	* Permanent or temp
@@ -16,6 +16,17 @@ I am currently employed as a Ruby on Rails Developer.:
 An energetic problem solver who draws from my extensive experience to deliver results. 
 
 ## Skills:
+#### Angular/React (2 years)
+ - Angular 13
+
+#### Amazon Web Services (4 years)
+ - Cognito
+ - S3
+ - API Gateway
+ - Lambda Functions
+ - Cloudwatch
+ - Cloud Formation
+
 #### Ruby on Rails (5+ Years)
 
  - Rails 3/4/5/6 (6+ yrs)
@@ -36,7 +47,7 @@ An energetic problem solver who draws from my extensive experience to deliver re
 * Css, HTML, Javascript, Jquery (7+ yrs)
  
 ####  Agile/remote
-* 3+ years working 100 percent remote in an agile environment 
+* 5+ years working 100 percent remote in an agile environment 
 
 #### WordPress (11+ years)
 * PhpMyAdmin, cPanel, Cloudflare
@@ -66,12 +77,4 @@ An energetic problem solver who draws from my extensive experience to deliver re
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
